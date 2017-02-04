@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScarneDice</string>
+
+        <string name="dice">dice</string>
+        <string name="computer_score">Computer Score:</string>
+        <string name="your_score">Your Score:</string>
+        <integer name="your_score">0</integer>
+        <integer name="computer_score">0</integer>
+        <string name="button_roll">Roll</string>
+        <string name="button_hold">Hold</string>
+        <string name="button_reset">Reset</string>
+        <string name="your_turn_score">Turn Score:</string>
+        <integer name="your_turn_score">0</integer>
+
+</resources>
